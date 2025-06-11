@@ -41,13 +41,6 @@ layout: default
             <span>★☆☆☆☆</span>
         </div>
     </div>
-    <div class="csharp">
-        <p>Swift</p>
-        <i class="fab fa-swift"></i> <!-- Using swift icon for Swift -->
-        <div class="rating">
-            <span>★★★☆☆</span>
-        </div>
-    </div>
     <div class="html5">
         <p>HTML</p>
         <i class="fab fa-html5"></i>
