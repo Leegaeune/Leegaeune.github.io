@@ -1,6 +1,5 @@
 <h1>Home Page</h1>
-https://github.com/youngHNU/newpage ->https://youngHNU.github.io/newpage/
-
+https://leegaeune.github.io/
 교수님께서 추천해주신 사이트(http://jekyllthemes.org/) 중 Cover card를 활용했습니다.
 
 <h1>My skills</h1>
