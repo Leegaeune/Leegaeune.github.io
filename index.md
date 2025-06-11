@@ -77,7 +77,7 @@ layout: default
     </div>
 </div>
 
-## Desired Job Role
+##             Education/Awards
 
 <div class="job-role-list">
     <div>
