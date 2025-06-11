@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## My Skills
+## Experience
 
 <div class="skills-icons">
     <div class="java">
@@ -85,6 +85,8 @@ layout: default
         <div class="rating">
         </div>
     </div>
+ </div>
+    
 
 <style>
     .skills-icons, .projects-list, .job-role-list {
