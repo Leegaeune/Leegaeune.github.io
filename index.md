@@ -68,7 +68,7 @@ layout: default
 
 <div class="projects-list">
     <div>
-        <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
+        <p>Project 1: 부산행(C Language)<br><br>2024.04.19</p>
     </div>
     <div>
         <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
@@ -128,7 +128,6 @@ layout: default
     .python { color: #306998; }
     .c-lang { color: #555555; }
     .cpp { color: #f34b7d; }
-    .csharp { color: #178600; }
     .html5 { color: #e34c26; }
     .css3 { color: #264de4; }
 </style>
