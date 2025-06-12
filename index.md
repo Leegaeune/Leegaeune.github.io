@@ -124,3 +124,10 @@ layout: default
 ## About
 Welcome to my personal website. Here you can find my projects and contact information.
 "<!-- rebuild -->" 
+<!--
+Experiense : 학력, 학점
+프로젝트 거북이, 부트캠에서 할 개인/팀 프로젝트 
+자격증 (딴 순서대로)
+contact : 블로그, 깃허브, 
+
+-->
