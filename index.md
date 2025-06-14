@@ -58,7 +58,6 @@ title: Home
 ## Certificates
 <div class="experience-entry">
       <div class="experience-left">
-        <h3>Certificates</h3>
       </div>
       <div class="experience-right">
         <ul>
