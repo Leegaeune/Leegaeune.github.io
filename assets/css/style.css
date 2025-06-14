@@ -31,8 +31,9 @@ body {
 .sidebar img {
     width: 150px;
     height: 150px;
-    border-radius: 0; /* 직사각형 모양 */
-    object-fit: cover;
+    border-radius: 0;
+    object-fit: cover; /* 이미지를 비율에 맞게 채우되, 넘치면 자름 */
+    object-position: top; /* 이미지를 자를 때, 윗부분을 기준으로 보여줌 */
     margin-bottom: 20px;
 }
 
