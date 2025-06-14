@@ -3,59 +3,56 @@ layout: default
 title: Home
 ---
 
-## Education&Award
+## Experience & Awards
 
-<div class="skills-icons">
-    <div class="java">
-        <p>Java</p>
-        <i class="fab fa-java"></i>
-        <div class="rating">
-            <span>★★☆☆☆</span>
-        </div>
+<section class="experience-section">
+
+  <!-- Hannam University 섹션 -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>Hannam University</h3>
+      <p>2021.03 - 2026.02</p>
     </div>
-    <div class="javascript">
-        <p>JavaScript</p>
-        <i class="fab fa-js"></i>
-        <div class="rating">
-            <span>★★★★☆</span>
-        </div>
+    <div class="experience-right">
+      <h4>AI Convergence</h4>
+      <ul>
+        <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
+        <li>23년도 2학기 튜터링, 튜터로 진행 - 선형대수학</li>
+      </ul>
+      <h4>Computer Engineering</h4>
+       <ul>
+        <li>2023-2학기 성적 우수생 선발</li>
+      </ul>
+      <p><strong>총 평점 :</strong> 3.77 / 4.5</p>
     </div>
-    <div class="python">
-        <p>Python</p>
-        <i class="fab fa-python"></i>
-        <div class="rating">
-            <span>★★★☆☆</span>
-        </div>
+  </div>
+
+  <!-- SK networks 섹션 -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>SK networks Family camp 17th</h3>
+      <p>2025.06 - 2025.12</p>
     </div>
-    <div class="c-lang">
-        <p>C Language</p>
-        <i class="fab fa-cuttlefish"></i>
-        <div class="rating">
-            <span>★★★★☆</span>
-        </div>
+    <div class="experience-right">
+      <!-- 이 부분에 SK networks 관련 상세 내용을 추가할 수 있습니다. -->
     </div>
-    <div class="cpp">
-        <p>C++</p>
-        <i class="fab fa-cuttlefish"></i>
-        <div class="rating">
-            <span>★☆☆☆☆</span>
-        </div>
-    </div>
-    <div class="html5">
-        <p>HTML</p>
-        <i class="fab fa-html5"></i>
-        <div class="rating">
-            <span>★★★☆☆</span>
-        </div>
-    </div>
-    <div class="css3">
-        <p>CSS</p>
-        <i class="fab fa-css3-alt"></i>
-        <div class="rating">
-            <span>★★☆☆☆</span>
-        </div>
-    </div>
-</div>
+  </div>
+
+  <!-- Awards 섹션 -->
+  <div class="experience-entry">
+      <div class="experience-left">
+        <h3>Awards</h3>
+        <p>2023.12 - 2025.01</p>
+      </div>
+      <div class="experience-right">
+        <ul>
+            <li>융합교육과정 이수 활성화 수기 공모전 - 장려상 (한남대학교 2023.12)</li>
+            <li>캔위성 창업아이디어 경진대회 - Best Marketing Strategy Award (Thu Dau Mot University X Hannam University SatelliteUtilization Research Center 2025.01)</li>
+        </ul>
+      </div>
+  </div>
+
+</section>
 
 ## Projects
 
@@ -116,8 +113,5 @@ ADSP
 
 디지털정보활용능력 고급(국가자격증)
 
-
-
-contact : 블로그, 깃허브, 구글메일
 
 -->'
