@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Experience & Awards
+## Education & Awards
 
 <section class="experience-section">
 
