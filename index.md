@@ -14,15 +14,19 @@ title: Home
       <p>2021.03 - 2026.02</p>
     </div>
     <div class="experience-right">
-      <h4>AI Convergence</h4>
-      <ul>
-        <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
-        <li>23년도 2학기 튜터링, 튜터로 진행 - 선형대수학</li>
-      </ul>
-      <h4>Computer Engineering</h4>
-       <ul>
-        <li>2023-2학기 성적 우수생 선발</li>
-      </ul>
+      <div class="experience-detail">
+        <h4>AI Convergence</h4>
+        <ul>
+          <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
+          <li>23년도 2학기 튜터링, 튜터로 진행 - 선형대수학</li>
+        </ul>
+      </div>
+      <div class="experience-detail">
+        <h4>Computer Engineering</h4>
+         <ul>
+          <li>2023-2학기 성적 우수생 선발</li>
+        </ul>
+      </div>
       <p><strong>총 평점 :</strong> 3.77 / 4.5</p>
     </div>
   </div>
@@ -34,7 +38,7 @@ title: Home
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
-      <!-- 이 부분에 SK networks 관련 상세 내용을 추가할 수 있습니다. -->
+      <!-- 상세 내용이 있다면 여기에 추가 -->
     </div>
   </div>
 
@@ -53,6 +57,7 @@ title: Home
   </div>
 
 </section>
+
 
 ## Projects
 
