@@ -82,7 +82,6 @@ title: Home
 
 <div class="tech-stack-container">
   <div class="tech-stack-text">
-    <h3>Hard Skills</h3>
     <ul>
       <li>Python</li>
       <li>Java</li>
