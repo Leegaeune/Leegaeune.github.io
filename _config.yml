@@ -1,14 +1,13 @@
-
-
 # Title and tag line
 title: '이가은의 포트폴리오'
-# description: 'Ko Young Sun, 24years'
+description: '이가은 (Lee Ga-eun), Student at Gachon University'
 
 # Images
 avatar: 'IMG_1282.JPG'
-background: 'stacked-peaks-haikei.png'
+background: 'stacked-peaks-naikei.png' # 오타 수정
 favicon: 'favicon.ico'
 
+# 아래 내용은 수정할 필요 없습니다.
 # Online profiles
 facebook: 'myfacebook'
 twitter: 'mytwitter'
@@ -20,28 +19,3 @@ vk: 'myvk'
 blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
-
-social-links-order: [java, javascript, python, c-lang, html5, css3]
-
-# Yaml manifest of supported social links
-social-links:
-  - name: java
-    url-pattern: '#'
-    icon-class: fab fa-2x fa-java
-
-  - name: javascript
-    url-pattern: '#'
-    icon-class: fab fa-2x fa-js
-
-  - name: python
-    url-pattern: '#'
-    icon-class: fab fa-2x fa-python
-
-  - name: c-lang
-    url-pattern: '#'
-    icon-class: fab fa-2x fa-cuttlefish
-
-  - name: css3
-    url-pattern: '#'
-    icon-class: fab fa-2x fa-css3-alt
-
