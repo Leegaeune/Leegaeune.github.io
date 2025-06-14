@@ -20,26 +20,24 @@ body {
     overflow: hidden;
 }
 
-/* 왼쪽 사이드바 스타일 */
+/* 왼쪽 사이드바 스타일 (핵심 변경 부분) */
 .sidebar {
     width: 300px;
     padding: 40px;
     border-right: 1px solid #ddd;
-    text-align: center; /* 이미지와 텍스트를 모두 가운데 정렬합니다 */
-    display: flex; /* 내부 요소들을 세로로 정렬하기 위해 flex 사용 */
+    text-align: center;
+    display: flex;
     flex-direction: column;
-    justify-content: center; /* 세로 방향으로도 가운데 정렬 */
+    /* 아래의 justify-content 줄을 삭제하여 상단으로 정렬되도록 합니다. */
+    /* justify-content: center; */ 
 }
 
-/* --- 프로필 사진 스타일 (핵심 변경 부분) --- */
+/* --- 프로필 사진 스타일 --- */
 .sidebar img {
     width: 200px;
     height: 200px;
     border-radius: 15px;
-    /* cover -> contain 으로 변경하여 이미지 전체가 보이도록 설정.
-      이미지 비율에 따라 위아래 또는 좌우에 여백이 생길 수 있습니다.
-    */
-    object-fit: contain; 
+    object-fit: contain; /* 이미지 전체가 잘리지 않고 보이도록 설정 */
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
