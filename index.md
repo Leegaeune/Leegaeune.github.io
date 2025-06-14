@@ -62,7 +62,7 @@ title: Home
 
 <div class="projects-list">
     <div>
-        <p>Project 1: 부산행(C Language)<br><br>2024.04.19</p>
+        <p>Project 1: 꺼북e알림<br><br>2024.12.10</p>
     </div>
     <div>
         <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
