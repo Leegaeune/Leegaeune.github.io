@@ -80,13 +80,28 @@ title: Home
 
 ## Tech Stack
 
-<div class="job-role-list">
-    <div>
-        <p>Hard Skills : <br><br>Python<br>Java<br>SQL<br>C++<br>JavaScript<br>HTML</p>
-        <div class="rating">
-        </div>
-    </div>
+<div class="tech-stack-container">
+  <div class="tech-stack-text">
+    <h3>Hard Skills</h3>
+    <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>SQL</li>
+      <li>C++</li>
+      <li>JavaScript</li>
+      <li>HTML</li>
+    </ul>
+  </div>
+  <div class="tech-stack-logos">
+    <div class="logo-item python"><i class="fab fa-python"></i></div>
+    <div class="logo-item java"><i class="fab fa-java"></i></div>
+    <div class="logo-item"><i class="fas fa-database"></i></div> <!-- SQL -->
+    <div class="logo-item cpp">C++</div> <!-- C++ Icon Alternative -->
+    <div class="logo-item javascript"><i class="fab fa-js"></i></div>
+    <div class="logo-item html5"><i class="fab fa-html5"></i></div>
+  </div>
 </div>
+
 
 ## About
 Welcome to my personal website. Here you can find my projects and contact information.
