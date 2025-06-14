@@ -55,9 +55,10 @@ title: Home
       </div>
   </div>
 
-## Certificates
-<div class="experience-entry">
+  <!-- Certificates 섹션 (새로 추가된 부분) -->
+  <div class="experience-entry">
       <div class="experience-left">
+        <h3>Certificates</h3>
       </div>
       <div class="experience-right">
         <ul>
@@ -69,6 +70,7 @@ title: Home
         </ul>
       </div>
   </div>
+
   
 </section>
 ## Projects
