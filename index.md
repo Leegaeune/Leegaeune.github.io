@@ -59,31 +59,62 @@ title: Home
 
 <h2 class="section-title">Certificates</h2>
 <div class="certificates-list">
-  <div><p>네트워크관리사 2급</p></div>
-  <div><p>ADSP</p></div>
-  <div><p>리눅스마스터 2급</p></div>
-  <div><p>한국사능력검정시험 심화</p></div>
   <div><p>DIAT 고급</p></div>
+  <div><p>리눅스마스터 2급</p></div>
+  <div><p>ADSP</p></div>
+  <div><p>네트워크관리사 2급</p></div>
+  <div><p>정보처리기사</p></div>
 </div>
 
 <h2 class="section-title">Projects</h2>
-<div class="projects-list">
-    <div>
-        <p>Project 1: 부산행(C Language)<br><br>2024.04.19</p>
+
+<section class="projects-section">
+
+  <!-- 프로젝트 1: 위성기반 농산물 예측 사업 -->
+  <div class="project-card">
+    <h3>위성기반 농산물 예측 사업</h3>
+    <p class="project-period">2025.01</p>
+    <div class="project-content">
+      <h4>프로젝트 목표</h4>
+      <p>
+        위성 이미지 데이터에 대한 수요가 높은 투자자들을 타겟으로, 원본 데이터를 가공하여 가치 있는 정보(농산물 수확량 예측)를 제공하는 비즈니스 모델을 구체화하는 것을 목표로 했습니다.
+      </p>
+      <h4>주요 역할 및 구현 내용</h4>
+      <ul>
+        <li><b>대상 선정:</b> 사업 모델 검증을 위해 베트남의 핵심 수출 품목인 쌀(Rice)을 분석 대상으로 선정했습니다.</li>
+        <li><b>핵심 기술 구현:</b>
+          <ol>
+            <li><b>식생 지표 추출:</b> 위성 이미지의 RGB 밴드 중, 식물의 엽록소 반응을 가장 잘 나타내는 녹색(Green) 밴드 값을 핵심 지표로 추출했습니다.</li>
+            <li><b>경작지 식별:</b> 추출한 녹색 밴드 값을 기준으로 임계값(Threshold)을 설정하여, 논(Paddy field)과 다른 지형지물을 명확하게 분리하는 이미지 필터링을 적용했습니다.</li>
+            <li><b>면적 계산 및 수확량 예측:</b> 식별된 논 영역의 픽셀 수를 계산하여 전체 경작지의 면적을 산출하고, 이를 단위 면적당 평균 수확량 데이터와 결합하여 최종 생산량을 예측하는 모델을 구축했습니다.</li>
+          </ol>
+        </li>
+      </ul>
+      <h4>성과 및 배운 점</h4>
+      <p>
+        이 프로젝트를 통해 위성 데이터를 분석하여 실제 산업에 적용할 수 있는 구체적인 정보를 추출하는 데이터 처리 및 분석 능력을 길렀습니다. 특히, 복잡한 원본 데이터로부터 비즈니스 가치를 창출하는 문제 해결 과정을 직접 경험했습니다.
+      </p>
     </div>
-    <div>
-        <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
+  </div>
+
+  <!-- 프로젝트 2: 부산행(C Language) -->
+  <div class="project-card">
+    <h3>부산행 (C Language)</h3>
+    <p class="project-period">2024.04.19</p>
+    <div class="project-content">
+      <p>여기에 프로젝트 상세 내용을 작성해주세요.</p>
     </div>
-    <div>
-        <p>Project 3: Music Player<br><br>(Planned)</p>
+  </div>
+
+  <!-- 프로젝트 3: Fashion mall The Website -->
+  <div class="project-card">
+    <h3>Fashion mall The Website</h3>
+    <p class="project-period">Planned</p>
+     <div class="project-content">
+      <p>여기에 프로젝트 상세 내용을 작성해주세요.</p>
     </div>
-    <div>
-        <p>Project 4: AI Development<br><br>(Planned)</p>
-    </div>
-    <div>
-        <p>Project 5: Hotel Reservation System<br><br>(Planned)</p>
-    </div>
-</div>
+  </div>
+
 
 <h2 class="section-title">Tech Stack</h2>
 <div class="tech-stack-container">
