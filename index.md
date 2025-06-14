@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-## Education & Awards
-
+<h2 class="section-title">Experience & Awards</h2>
 <section class="experience-section">
 
   <!-- Hannam University 섹션 -->
@@ -34,7 +33,7 @@ title: Home
   <!-- SK networks 섹션 -->
   <div class="experience-entry">
     <div class="experience-left">
-      <h3>SK networks Family AI Camp 17th</h3>
+      <h3>SK networks Family camp 17th</h3>
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
@@ -46,6 +45,7 @@ title: Home
   <div class="experience-entry">
       <div class="experience-left">
         <h3>Awards</h3>
+        <p>2023.12 - 2025.01</p>
       </div>
       <div class="experience-right">
         <ul>
@@ -55,8 +55,9 @@ title: Home
       </div>
   </div>
 
-## Certificates
+</section>
 
+<h2 class="section-title">Certificates</h2>
 <div class="certificates-list">
   <div><p>네트워크관리사 2급</p></div>
   <div><p>ADSP</p></div>
@@ -65,13 +66,10 @@ title: Home
   <div><p>DIAT 고급</p></div>
 </div>
 
-  
-</section>
-## Projects
-
+<h2 class="section-title">Projects</h2>
 <div class="projects-list">
     <div>
-        <p>Project 1: 꺼북e알림<br><br>2024.12.10</p>
+        <p>Project 1: 부산행(C Language)<br><br>2024.04.19</p>
     </div>
     <div>
         <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
@@ -87,10 +85,10 @@ title: Home
     </div>
 </div>
 
-## Tech Stack
-
+<h2 class="section-title">Tech Stack</h2>
 <div class="tech-stack-container">
   <div class="tech-stack-text">
+    <h3>Hard Skills</h3>
     <ul>
       <li>Python</li>
       <li>Java</li>
@@ -109,6 +107,7 @@ title: Home
     <div class="logo-item html5"><i class="fab fa-html5"></i></div>
   </div>
 </div>
+
 
 
 ## About
