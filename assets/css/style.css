@@ -4,11 +4,15 @@ body {
     color: #333;
     margin: 0;
     padding: 20px;
+    
+    /* --- 배경 이미지 지정 (올바른 파일 이름으로 수정) --- */
+    background-image: url('/stacked-peaks-haikei.png'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
+/* 이하 모든 코드는 이전과 동일합니다. */
 /* 전체 레이아웃을 감싸는 컨테이너 */
 .container {
     display: flex;
