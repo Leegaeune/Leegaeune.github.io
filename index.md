@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Home
 ---
-
 
 ## Experience
 
@@ -29,14 +29,14 @@ layout: default
     </div>
     <div class="c-lang">
         <p>C Language</p>
-        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
+        <i class="fab fa-cuttlefish"></i>
         <div class="rating">
             <span>★★★★☆</span>
         </div>
     </div>
     <div class="cpp">
         <p>C++</p>
-        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C++ -->
+        <i class="fab fa-cuttlefish"></i>
         <div class="rating">
             <span>★☆☆☆☆</span>
         </div>
@@ -85,59 +85,7 @@ layout: default
         <div class="rating">
         </div>
     </div>
- </div>
-    
-
-<style>
-    .skills-icons, .projects-list, .job-role-list {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 20px;
-        margin-top: 20px;
-    }
-    .skills-icons div, .projects-list div, .job-role-list div {
-        background: #fff;
-        border-radius: 10px;
-        padding: 10px;
-        width: 150px;
-        text-align: center;
-    }
-    .skills-icons i {
-        font-size: 2em;
-    }
-    .rating {
-        margin-top: 10px;
-    }
-    .rating span {
-        color: gold;
-    }
-    .java { color: #5382a1; }
-    .javascript { color: #f0db4f; }
-    .python { color: #306998; }
-    .c-lang { color: #555555; }
-    .cpp { color: #f34b7d; }
-    .html5 { color: #e34c26; }
-    .css3 { color: #264de4; }
-</style>
+</div>
 
 ## About
 Welcome to my personal website. Here you can find my projects and contact information.
-"<!-- rebuild -->" 
-<!--
-education&award : SK networks Family camp 17기 (2025.06 - 진행증)
-Experiense (경험)
-education : 학력, 학점
-            성적우수생 선발 , 스터디, 튜터진행, 학과홍보
-프로젝트 거북이, 부트캠에서 할 개인/팀 프로젝트 
-
-자격증 (딴 순서대로)
-네트워크관리사급(국가자격증)
-ADSP
-리눅스마스터 2급(국가자격증)
-한국사능력검정시험 심화
-디지털정보활용능력 고급(국가자격증)
-
-contact : 블로그, 깃허브, 구글메일
-
--->'
