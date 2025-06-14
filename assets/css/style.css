@@ -52,10 +52,20 @@ body {
 .main-content { flex-grow: 1; padding: 40px; }
 
 /* Experience & Awards Section 스타일 */
-.main-content h2 {
-  font-size: 1.6em; padding-bottom: 15px; margin-bottom: 30px;
-  border-bottom: 2px solid #e0e0e0; text-transform: uppercase;
-  letter-spacing: 1px; font-weight: 600;
+.section-title {
+  font-size: 1.6em; 
+  padding-bottom: 15px; 
+  margin-top: 50px; /* 각 섹션 사이의 간격을 줍니다 */
+  margin-bottom: 30px;
+  border-bottom: 2px solid #e0e0e0; 
+  text-transform: uppercase;
+  letter-spacing: 1px; 
+  font-weight: 600;
+}
+
+/* 첫 번째 섹션 제목은 위쪽 간격을 주지 않습니다. */
+.main-content .section-title:first-of-type {
+    margin-top: 0;
 }
 
 .experience-entry {
