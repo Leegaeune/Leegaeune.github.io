@@ -34,7 +34,7 @@ title: Home
   <!-- SK networks 섹션 -->
   <div class="experience-entry">
     <div class="experience-left">
-      <h3>SK networks Family camp 17th</h3>
+      <h3>SK networks Family AI Camp 17th</h3>
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
@@ -46,7 +46,6 @@ title: Home
   <div class="experience-entry">
       <div class="experience-left">
         <h3>Awards</h3>
-        <p>2023.12 - 2025.01</p>
       </div>
       <div class="experience-right">
         <ul>
