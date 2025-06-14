@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Experience
+## Education&Award
 
 <div class="skills-icons">
     <div class="java">
