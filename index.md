@@ -126,7 +126,7 @@ Welcome to my personal website. Here you can find my projects and contact inform
 "<!-- rebuild -->" 
 <!--
 education&award : SK networks Family camp 17기 (2025.06 - 진행증)
-Experiense
+Experiense (경험)
 education : 학력, 학점
             성적우수생 선발 , 스터디, 튜터진행, 학과홍보
 프로젝트 거북이, 부트캠에서 할 개인/팀 프로젝트 
@@ -140,4 +140,4 @@ ADSP
 
 contact : 블로그, 깃허브, 구글메일
 
--->
+-->'
