@@ -55,21 +55,15 @@ title: Home
       </div>
   </div>
 
-  <!-- Certificates 섹션 (새로 추가된 부분) -->
-  <div class="experience-entry">
-      <div class="experience-left">
-        <h3>Certificates</h3>
-      </div>
-      <div class="experience-right">
-        <ul>
-            <li>네트워크관리사 2급</li>
-            <li>ADSP</li>
-            <li>리눅스마스터 2급</li>
-            <li>한국사능력검정시험 심화</li>
-            <li>DIAT 고급</li>
-        </ul>
-      </div>
-  </div>
+## Certificates
+
+<div class="certificates-list">
+  <div><p>네트워크관리사 2급</p></div>
+  <div><p>ADSP</p></div>
+  <div><p>리눅스마스터 2급</p></div>
+  <div><p>한국사능력검정시험 심화</p></div>
+  <div><p>DIAT 고급</p></div>
+</div>
 
   
 </section>
