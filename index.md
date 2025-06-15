@@ -85,7 +85,7 @@ title: Home
         <li><b>핵심 기술 구현:</b>
           <ol>
             <li><b>식생 지표 추출:</b> 위성 이미지의 RGB 밴드 중, 식물의 엽록소 반응을 가장 잘 나타내는 녹색(Green) 밴드 값을 핵심 지표로 추출했습니다.</li>
-            <li><b>경작지 식별:</b> 추출한 녹색 밴드 값을 기준으로 임계값(Threshold)을 설정하여, 논(Paddy field)과 다른 지형지물을 명확하게 분리하는 이미지 필터링을 적용했습니다.</li>
+            <li><b>경작지 식별:</b> 추출한 녹색 밴드 값을 기준으로 임계값(Threshold)을 설정하여, 논(Paddy field)과 다른 지형지물(건물, 도로 등)을 명확하게 분리하는 이미지 필터링을 적용했습니다.</li>
             <li><b>면적 계산 및 수확량 예측:</b> 식별된 논 영역의 픽셀 수를 계산하여 전체 경작지의 면적을 산출하고, 이를 단위 면적당 평균 수확량 데이터와 결합하여 최종 생산량을 예측하는 모델을 구축했습니다.</li>
           </ol>
         </li>
@@ -94,6 +94,8 @@ title: Home
       <p>
         이 프로젝트를 통해 위성 데이터를 분석하여 실제 산업에 적용할 수 있는 구체적인 정보를 추출하는 데이터 처리 및 분석 능력을 길렀습니다. 특히, 복잡한 원본 데이터로부터 비즈니스 가치를 창출하는 문제 해결 과정을 직접 경험했습니다.
       </p>
+      <a href="https://drive.google.com/file/d/1nLE5Om-Nx4JHlmjOkynoXXGHAs4KOjr5/view?usp=sharing" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
+
     </div>
   </div>
 
