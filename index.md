@@ -2,8 +2,9 @@
 layout: default
 title: Home
 ---
+
 <section class="hero-section">
-  <h1>"데이터로 가치를 만들고, 코드로 세상을 이해하는 개발자"</h1>
+  <h1>데이터로 가치를 만들고, 코드로 세상을 이해하는 개발자</h1>
   <p>
     AI 모델의 가능성을 탐구하고, 그 모델이 안정적으로 작동할 수 있는 견고한 백엔드 시스템을 구축하는 것에 가장 큰 열정을 느낍니다. 데이터의 가치를 이해하는 AI 엔지니어이자, 그 가치를 사용자에게 안정적으로 전달하는 백엔드 개발자로서 기술의 시너지를 만들어나가는 것이 저의 목표입니다.
   </p>
@@ -20,15 +21,10 @@ title: Home
     </div>
     <div class="experience-right">
       <div class="experience-detail">
-        <h4>AI Convergence</h4>
+        <h4>AI Convergence & Computer Engineering</h4>
         <ul>
           <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
           <li>23년도 2학기 튜터링, 튜터로 진행 - 선형대수학</li>
-        </ul>
-      </div>
-      <div class="experience-detail">
-        <h4>Computer Engineering</h4>
-         <ul>
           <li>2023-2학기 성적 우수생 선발</li>
         </ul>
       </div>
@@ -36,40 +32,27 @@ title: Home
     </div>
   </div>
   
-    <!-- CDP -->
+  <!-- H-BRIDGE Global CDP -->
   <div class="experience-entry">
     <div class="experience-left">
       <h3>2025 H-BRIDGE Global CDP</h3>
       <p>2025.05 - 2025.06</p>
     </div>
     <div class="experience-right">
-      <!-- 상세 내용 -->
+      <ul>
+        <li>베트남 빈증성 투저우못 대학교 X 한남대학교 공학교육혁신센터, 위성활용연구센터 공동 프로젝트 진행</li>
+      </ul>
     </div>
   </div>
 
-    <!-- Hannam University 섹션 -->
-  <div class="experience-entry">
-    <div class="experience-left">
-      <h3>2025 H-BRIDGE Global CDP</h3>
-      <p>2025.01</p>
-    </div>
-    <div class="experience-right">
-      <div class="experience-detail">
-        <h4>베트남 빈증성 투저우못 대학교 X 한남대학교 공학교육혁신센터, 위성활용연구센터 공동 프로젝트 진행</h4>
-        <ul>
-          <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
-        </ul>
-      </div>
-    </div>
-  
-    <!-- SQLD -->
+  <!-- SQL 기반 데이터 분석 과정 -->
   <div class="experience-entry">
     <div class="experience-left">
       <h3>SQL 기반 데이터 분석 실습 및 활용 과정</h3>
       <p>2025.05 - 2025.06</p>
     </div>
     <div class="experience-right">
-      <!-- 상세 내용 -->
+      <!-- 활동에 대한 상세 내용이 있다면 여기에 추가 -->
     </div>
   </div>
 
@@ -80,22 +63,22 @@ title: Home
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
-      <!-- 상세 내용 -->
+      <!-- 활동에 대한 상세 내용이 있다면 여기에 추가 -->
     </div>
   </div>
 
   <!-- Awards 섹션 -->
   <div class="experience-entry">
-      <div class="experience-left">
-        <h3>Awards</h3>
-        <p>2023.12 - 2025.01</p>
-      </div>
-      <div class="experience-right">
-        <ul>
-            <li>융합교육과정 이수 활성화 수기 공모전 - 장려상 (한남대학교 2023.12)</li>
-            <li>캔위성 창업아이디어 경진대회 - Best Marketing Strategy Award (Thu Dau Mot University X Hannam University SatelliteUtilization Research Center 2025.01)</li>
-        </ul>
-      </div>
+    <div class="experience-left">
+      <h3>Awards</h3>
+      <p>2023.12 - 2025.01</p>
+    </div>
+    <div class="experience-right">
+      <ul>
+        <li>융합교육과정 이수 활성화 수기 공모전 - 장려상 (한남대학교 2023.12)</li>
+        <li>캔위성 창업아이디어 경진대회 - Best Marketing Strategy Award (Thu Dau Mot University X Hannam University SatelliteUtilization Research Center 2025.01)</li>
+      </ul>
+    </div>
   </div>
 
 </section>
@@ -111,10 +94,9 @@ title: Home
 
 
 <h2 class="section-title">Projects</h2>
-
 <section class="projects-section">
 
-  <!-- 프로젝트 1: 꺼북e 알림 (새로 추가) -->
+  <!-- 프로젝트 1: 꺼북e 알림 -->
   <div class="project-card">
     <h3>꺼북e 알림</h3>
     <p class="project-period">2024.09 - 2024.12</p>
@@ -130,9 +112,7 @@ title: Home
         <li><b>자세 가이드 제공 :</b> 간단한 스트레칭 방법이나 올바른 자세에 대한 정보를 알림과 함께 제공하여 사용자의 즉각적인 행동을 유도했습니다.</li>
       </ul>
       <h4>사용 기술</h4>
-      <p>
-        Python, HTML, JavaScript, CSS 등 
-      </p>
+      <p>Python, HTML, JavaScript, CSS 등</p>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
     </div>
   </div>
@@ -160,11 +140,7 @@ title: Home
       <a href="/Cansat3.pdf" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
     </div>
   </div>
-
-  <!-- 여기에 나머지 프로젝트들을 같은 형식으로 추가하면 됩니다. -->
-
-</section>
-
+  
   <!-- 프로젝트 3: Fashion mall The Website -->
   <div class="project-card">
     <h3>Fashion mall The Website</h3>
@@ -173,6 +149,8 @@ title: Home
       <p>여기에 프로젝트 상세 내용을 작성해주세요.</p>
     </div>
   </div>
+
+</section>
 
 
 <h2 class="section-title">Tech Stack</h2>
@@ -198,32 +176,17 @@ title: Home
   </div>
 </div>
 
-
-
-
 <!--
-
 education&award : SK networks Family camp 17기 (2025.06 - 진행증)
-
 Experiense (경험)
-
 education : 학력, 학점
-
             성적우수생 선발 , 스터디, 튜터진행, 학과홍보
-
 프로젝트 거북이, 부트캠에서 할 개인/팀 프로젝트 
 
-
 자격증 (딴 순서대로)
-
 네트워크관리사급(국가자격증)
-
 ADSP
-
 리눅스마스터 2급(국가자격증)
-
 한국사능력검정시험 심화
-
 디지털정보활용능력 고급(국가자격증)
-
 -->
