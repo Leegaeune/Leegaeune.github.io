@@ -41,6 +41,7 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
 코드 설명 : 각 프로젝트를 <div class="project-card">로 묶어 시각적 경계를 만들고, 내부에는 <h3>, <h4>, <ul> 등 시맨틱 태그를 사용하여 정보의 위계를 명확히 했습니다. CSS에서는 background, border, padding 등을 이용해 각 카드를 디자인했습니다.
 
+
 🛠️ 사용 기술
 
 HTML5: 웹페이지의 구조와 콘텐츠를 정의합니다.
