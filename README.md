@@ -101,6 +101,15 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
    - 코드 설명 : default.html에서 <link> 태그로 웹 폰트를 불러온 후, style.css의 body 태그에 font-family로 지정하여 사이트 전체에 적용했습니다. .section-title 등 주요 제목 클래스에 color: #345a7d;를 지정하여 컬러 시스템을 구축했습니다.
 
+기능 9) 아이콘을 활용한 인터랙티브 연락처 링크
+
+   - 기능 제목: 아이콘을 활용한 인터랙티브 연락처 링크
+
+   - 설명: 사이드바에 위치한 연락처(GitHub, Blog, Email) 정보를 단순 텍스트가 아닌, 각 서비스를 대표하는 아이콘과 함께 제공하여 사용자의 직관적인 인지를 돕습니다. 각 항목은 실제 사용자의 링크와 직접 연결되어 있어 즉각적인 소통이 가능합니다.
+
+   - 코드 위치: _layouts/default.html의 .contact-info 섹션, assets/css/style.css의 .contact-info 스타일
+
+   - 코드 설명: default.html에서 Font Awesome의 <i> 태그를 사용하여 아이콘을 추가하고, <a> 태그의 href 속성에 각 서비스의 실제 URL을 직접 연결했습니다. 이메일의 경우, mailto: 프로토콜을 사용하여 클릭 시 바로 메일 클라이언트가 실행되도록 구현했습니다. CSS에서는 호버(hover) 효과를 추가하여 사용자 인터랙션을 시각적으로 표현했습니다.
 
 
 
