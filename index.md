@@ -163,8 +163,6 @@ title: Home
 
 
 
-## About
-Welcome to my personal website. Here you can find my projects and contact information.
 
 <!--
 
