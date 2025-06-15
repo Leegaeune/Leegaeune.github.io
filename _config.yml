@@ -1,7 +1,6 @@
 # Title and tag line
 title: '이가은의 포트폴리오'
 
-# description 항목을 큰따옴표로 감싸서 여러 줄을 안전하게 처리합니다.
 description: "이가은 (Lee Ga-eun)<br>Backend Developer<br>AI Engineer"
 
 # Images
@@ -10,6 +9,6 @@ background: 'stacked-peaks-haikei.png'
 favicon: 'favicon.ico'
 
 # Online profiles
-github-user: 'Leegaeune' # 본인 GitHub 사용자 이름으로 변경
-blog_url: 'https://blog.naver.com/ga_ag_' # 본인 블로그 주소로 변경
-email: 'igaeun916@gmail.com' # 본인 이메일 주소로 변경
+github-user: 'Leegaeune' 
+blog_url: 'https://blog.naver.com/ga_ag_' 
+email: 'igaeun916@gmail.com' 
