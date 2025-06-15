@@ -55,7 +55,7 @@ title: Home
     </div>
     <div class="experience-right">
       <div class="experience-detail">
-        <h4>AI Convergence</h4>
+        <h4>베트남 빈증성 투저우못 대학교 X 한남대학교 공학교육혁신센터, 위성활용연구센터 공동 프로젝트 진행</h4>
         <ul>
           <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
         </ul>
