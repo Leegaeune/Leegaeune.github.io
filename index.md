@@ -66,9 +66,6 @@ title: Home
   <div><p>정보처리기사</p></div>
 </div>
 
-<h2 class="section-title">Projects</h2>
-
-<section class="projects-section">
 
 <h2 class="section-title">Projects</h2>
 
