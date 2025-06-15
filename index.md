@@ -52,7 +52,7 @@ title: Home
       <p>2025.05 - 2025.06</p>
     </div>
     <div class="experience-right">
-      <!-- 활동에 대한 상세 내용이 있다면 여기에 추가 -->
+      <!-- 상세 내용 -->
     </div>
   </div>
 
@@ -63,7 +63,7 @@ title: Home
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
-      <!-- 활동에 대한 상세 내용이 있다면 여기에 추가 -->
+      <!-- 상세 내용 -->
     </div>
   </div>
 
@@ -93,7 +93,6 @@ title: Home
 
 
 <h2 class="section-title">Projects</h2>
-
 <section class="projects-section">
 
   <!-- 프로젝트 1: 꺼북e 알림 -->
@@ -112,7 +111,12 @@ title: Home
         <li><b>자세 가이드 제공 :</b> 간단한 스트레칭 방법이나 올바른 자세에 대한 정보를 알림과 함께 제공하여 사용자의 즉각적인 행동을 유도했습니다.</li>
       </ul>
       <h4>사용 기술</h4>
-      <p>Python, HTML, JavaScript, CSS 등</p>
+      <div class="project-tech-tags">
+        <span class="tech-tag python">Python</span>
+        <span class="tech-tag html">HTML</span>
+        <span class="tech-tag javascript">JavaScript</span>
+        <span class="tech-tag css">CSS</span>
+      </div>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
     </div>
   </div>
@@ -137,11 +141,15 @@ title: Home
           </ol>
         </li>
       </ul>
+      <h4>사용 기술</h4>
+      <div class="project-tech-tags">
+        <span class="tech-tag python">Python</span>
+        <span class="tech-tag ai">AI</span>
+        <span class="tech-tag ml">Machine Learning</span>
+      </div>
       <a href="/Cansat3.pdf" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
     </div>
   </div>
-  
-  <!-- ▼▼▼ 새로 추가된 예정 프로젝트 3개 ▼▼▼ -->
   
   <!-- 프로젝트 3: 렌탈 가전 고장 예측 AI 모델 -->
   <div class="project-card">
@@ -159,7 +167,13 @@ title: Home
         <li>예측된 고장 확률을 시각화하는 관리자용 대시보드 구현</li>
       </ul>
       <h4>예상 사용 기술</h4>
-      <p>Python, Pandas, TensorFlow, Scikit-learn, SQL</p>
+      <div class="project-tech-tags">
+        <span class="tech-tag python">Python</span>
+        <span class="tech-tag">Pandas</span>
+        <span class="tech-tag ai">TensorFlow</span>
+        <span class="tech-tag ml">Scikit-learn</span>
+        <span class="tech-tag">SQL</span>
+      </div>
     </div>
   </div>
 
@@ -179,7 +193,12 @@ title: Home
         <li>감성 분석 모델을 통한 긍정/부정 리뷰 분류 및 시각화</li>
       </ul>
       <h4>예상 사용 기술</h4>
-      <p>Python, Scikit-learn (TF-IDF), Gensim, KoNLPy</p>
+      <div class="project-tech-tags">
+        <span class="tech-tag python">Python</span>
+        <span class="tech-tag ml">Scikit-learn</span>
+        <span class="tech-tag">Gensim</span>
+        <span class="tech-tag">KoNLPy</span>
+      </div>
     </div>
   </div>
   
@@ -199,13 +218,17 @@ title: Home
         <li>추천 상품 목록을 반환하는 RESTful API 서버 구축</li>
       </ul>
       <h4>예상 사용 기술</h4>
-      <p>Python, Java/Spring, MySQL/PostgreSQL, REST API, AWS/GCP</p>
+      <div class="project-tech-tags">
+        <span class="tech-tag python">Python</span>
+        <span class="tech-tag java">Java/Spring</span>
+        <span class="tech-tag">SQL</span>
+        <span class="tech-tag">REST API</span>
+        <span class="tech-tag">Cloud</span>
+      </div>
     </div>
   </div>
 
 </section>
-
-
 
 <h2 class="section-title">Tech Stack</h2>
 <div class="tech-stack-container">
@@ -229,18 +252,3 @@ title: Home
     <div class="logo-item html5"><i class="fab fa-html5"></i></div>
   </div>
 </div>
-
-<!--
-education&award : SK networks Family camp 17기 (2025.06 - 진행증)
-Experiense (경험)
-education : 학력, 학점
-            성적우수생 선발 , 스터디, 튜터진행, 학과홍보
-프로젝트 거북이, 부트캠에서 할 개인/팀 프로젝트 
-
-자격증 (딴 순서대로)
-네트워크관리사급(국가자격증)
-ADSP
-리눅스마스터 2급(국가자격증)
-한국사능력검정시험 심화
-디지털정보활용능력 고급(국가자격증)
--->
