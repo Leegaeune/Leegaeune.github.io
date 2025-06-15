@@ -41,6 +41,16 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
 코드 설명 : 각 프로젝트를 <div class="project-card">로 묶어 시각적 경계를 만들고, 내부에는 <h3>, <h4>, <ul> 등 시맨틱 태그를 사용하여 정보의 위계를 명확히 했습니다. CSS에서는 background, border, padding 등을 이용해 각 카드를 디자인했습니다.
 
+🛠️ 사용 기술
+
+HTML5: 웹페이지의 구조와 콘텐츠를 정의합니다.
+
+CSS3: 웹페이지의 전체적인 디자인과 레이아웃, 반응형 처리를 담당합니다.
+
+Jekyll: 정적 사이트 생성기로, 마크다운 파일과 템플릿을 최종 HTML 파일로 빌드합니다.
+
+GitHub Pages: 완성된 정적 웹사이트를 인터넷에 호스팅합니다.
+
 
 
 
