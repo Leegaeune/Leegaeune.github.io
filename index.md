@@ -74,7 +74,7 @@ title: Home
   <!-- 프로젝트 1: 꺼북e 알림 (새로 추가) -->
   <div class="project-card">
     <h3>꺼북e 알림</h3>
-    <p class="project-period">진행 기간 (예: 2024.03 - 2024.06)</p>
+    <p class="project-period">진행 기간 (예: 2024.09 - 2024.12)</p>
     <div class="project-content">
       <h4>프로젝트 목표</h4>
       <p>
