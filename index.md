@@ -88,7 +88,7 @@ title: Home
       </ul>
       <h4>사용 기술</h4>
       <p>
-        (여기에 Android, iOS, Java, Kotlin, Swift, Firebase 등 실제 사용하신 기술 스택을 작성해주세요.)
+        Python, HTML, JavaScript, CSS 등 
       </p>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
     </div>
