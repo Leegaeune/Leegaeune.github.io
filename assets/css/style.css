@@ -34,7 +34,11 @@ body {
 
 /* 연락처 정보 스타일 */
 .contact-info { margin-top: 30px; text-align: left; width: 100%; }
-.contact-info h2 { text-align: center; font-size: 1.2em; margin-bottom: 15px; padding-bottom: 10px; border-bottom: 2px solid #eee; }
+.contact-info h2 {
+    text-align: center; font-size: 1.2em; margin-bottom: 15px;
+    padding-bottom: 10px; border-bottom: 2px solid #eee;
+    color: #345a7d; /* 제목 색상 추가 */
+}
 .contact-info ul { list-style: none; padding: 0; margin: 0; }
 .contact-info li { padding: 8px 0; font-size: 0.95em; }
 .contact-info a { color: #333; text-decoration: none; transition: color 0.2s ease-in-out; }
@@ -44,25 +48,16 @@ body {
 /* 오른쪽 메인 콘텐츠 스타일 */
 .main-content { flex-grow: 1; padding: 40px; }
 
-/* --- 대표문구 섹션 스타일 (새로 추가) --- */
+/* 대표문구 섹션 스타일 */
 .hero-section {
-    background-color: #e9ecef; /* 부드러운 배경색으로 주목도를 높임 */
-    padding: 30px;
-    border-radius: 8px;
-    margin-bottom: 50px; /* 다음 섹션과의 간격 */
-    text-align: center;
+    background-color: #e9ecef; padding: 30px; border-radius: 8px;
+    margin-bottom: 50px; text-align: center;
 }
 .hero-section h1 {
-    font-size: 2em;
-    margin: 0 0 15px 0;
-    color: #212529;
+    font-size: 2em; margin: 0 0 15px 0;
+    color: #345a7d; /* 제목 색상 추가 */
 }
-.hero-section p {
-    font-size: 1.1em;
-    line-height: 1.7;
-    color: #495057;
-    margin: 0;
-}
+.hero-section p { font-size: 1.1em; line-height: 1.7; color: #495057; margin: 0; }
 
 
 /* 모든 섹션 제목 스타일 */
@@ -70,6 +65,7 @@ body {
   font-size: 1.6em; padding-bottom: 15px; margin-top: 50px;
   margin-bottom: 30px; border-bottom: 2px solid #e0e0e0;
   text-transform: uppercase; letter-spacing: 1px; font-weight: 600;
+  color: #345a7d; /* 제목 색상 추가 */
 }
 .main-content .section-title:first-of-type { margin-top: 0; }
 
