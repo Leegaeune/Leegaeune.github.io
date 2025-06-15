@@ -3,7 +3,6 @@
 Jekyll과 GitHub Pages를 기반으로, 외부 테마를 사용하지 않고 직접 구축한 개인 포트폴리오 웹사이트입니다.
 
 
-
 <h1>🖥️ 홈페이지 바로가기</h1>
 
 Live URL : https://leegaeune.github.io/
