@@ -36,7 +36,7 @@ title: Home
   <div class="experience-entry">
     <div class="experience-left">
       <h3>2025 H-BRIDGE Global CDP</h3>
-      <p>2025.05 - 2025.06</p>
+      <p>2025.01</p>
     </div>
     <div class="experience-right">
       <ul>
@@ -71,7 +71,6 @@ title: Home
   <div class="experience-entry">
     <div class="experience-left">
       <h3>Awards</h3>
-      <p>2023.12 - 2025.01</p>
     </div>
     <div class="experience-right">
       <ul>
