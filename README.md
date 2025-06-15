@@ -31,8 +31,7 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
 
 
-4. 외부 리소스 연동:
-5. 
+4. 외부 리소스 연동: 
    - Font Awesome : 연락처 섹션 등에 아이콘을 적용하여 시각적 완성도를 높였습니다.
    
    - 외부 링크 : 프로젝트 카드 내부에 관련 발표 자료(PDF, PPT)를 확인할 수 있는 링크 버튼을 구현하여 포트폴리오의 깊이를 더했습니다.
