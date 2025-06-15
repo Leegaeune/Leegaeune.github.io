@@ -49,7 +49,7 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
    - 코드 위치 : index.md의 .project-card, assets/css/style.css의 .project-card 관련 스타일
 
-   - 코드 설명 : 각 프로젝트를 <div class="project-card">로 묶어 시각적 경계를 만들고, 내부에는 "<h3>, <h4>, <ul>" 등 시맨틱 태그를 사용하여 정보의 위계를 명확히 했습니다. CSS에서는 background, border, padding 등을 이용해 각 카드를 디자인했습니다.
+   - 코드 설명 : 각 프로젝트를 <div class="project-card">로 묶어 시각적 경계를 만들고, 내부에는 <h3>, <h4>, <ul> 등 시맨틱 태그를 사용하여 정보의 위계를 명확히 했습니다. CSS에서는 background, border, padding 등을 이용해 각 카드를 디자인했습니다.
 
 기능 4) 프로젝트 자료 외부 링크 연동
 
@@ -81,6 +81,25 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
    - 코드 설명 : 미디어 쿼리(@media (max-width: 768px))를 사용하여, 특정 화면 너비 이하일 때 메인 컨테이너(.container)의 flex-direction을 column으로 변경하고, 사이드바와 메인 콘텐츠의 너비를 100%로 설정하여 레이아웃을 세로로 유연하게 재배치했습니다.
 
+기능 7) 맨 위로 가기(Back to Top) 버튼
+
+   - 기능 제목 : 사용자 편의성을 위한 '맨 위로 가기' 버튼
+
+   - 설명 : 내용이 긴 이력서를 읽는 사용자가 스크롤의 압박 없이 쉽게 최상단으로 돌아갈 수 있도록 돕는 UX(사용자 경험) 개선 기능입니다.
+
+   - 코드 위치 : _layouts/default.html의 버튼 HTML 및 JavaScript, assets/css/style.css의 .back-to-top 스타일
+
+   - 코드 설명 : JavaScript를 이용해 현재 스크롤 위치(document.body.scrollTop)를 감지하여 버튼의 표시 여부(display)를 제어하고, 클릭 시 window.scrollTo() 메서드의 behavior: 'smooth' 옵션을 사용해 부드럽게 스크롤되도록 구현했습니다.
+
+기능 8) 웹 폰트 및 컬러 시스템 적용
+
+   - 기능 제목 : 가독성과 브랜딩을 위한 웹 폰트 및 통합 컬러 시스템
+
+  -  설명 : 시스템 기본 폰트 대신 Google Fonts의 'Noto Sans KR'을 적용하여 모든 환경에서 일관되고 가독성 높은 타이포그래피를 제공합니다. 또한, 주요 제목에 일관된 포인트 색상을 적용하여 시각적 계층 구조를 명확히 하고 전문적인 인상을 줍니다.
+
+   - 코드 위치 : _layouts/default.html의 폰트 링크, assets/css/style.css의 body 및 각 제목 스타일
+
+   - 코드 설명 : default.html에서 <link> 태그로 웹 폰트를 불러온 후, style.css의 body 태그에 font-family로 지정하여 사이트 전체에 적용했습니다. .section-title 등 주요 제목 클래스에 color: #345a7d;를 지정하여 컬러 시스템을 구축했습니다.
 
 
 
