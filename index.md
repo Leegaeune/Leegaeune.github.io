@@ -93,6 +93,7 @@ title: Home
 
 
 <h2 class="section-title">Projects</h2>
+
 <section class="projects-section">
 
   <!-- 프로젝트 1: 꺼북e 알림 -->
@@ -123,7 +124,7 @@ title: Home
     <div class="project-content">
       <h4>프로젝트 목표</h4>
       <p>
-        위성 이미지 데이터에 대한 수요가 높은 투자자들을 타겟으로, 원본 데이터를 가공하여 <strong>AI 기반의 농산물 수확량 예측 모델</strong>을 구축하고, 이를 통해 가치 있는 정보를 제공하는 비즈니스 모델을 구체화하는 것을 목표로 했습니다.
+        위성 이미지 데이터에 대한 수요가 높은 투자자들을 타겟으로, AI 기반의 농산물 수확량 예측 모델을 구축하고, 이를 통해 가치 있는 정보를 제공하는 비즈니스 모델을 구체화하는 것을 목표로 했습니다.
       </p>
       <h4>주요 역할 및 구현 내용</h4>
       <ul>
@@ -131,8 +132,8 @@ title: Home
         <li><b>핵심 기술 구현 (AI 적용):</b>
           <ol>
             <li><b>식생 지표 추출:</b> 위성 이미지의 RGB 밴드 중, 식물의 엽록소 반응을 가장 잘 나타내는 녹색(Green) 밴드 값을 핵심 지표로 추출했습니다.</li>
-            <li><b>경작지 식별 (AI 모델 활용):</b> 단순한 RGB 값을 넘어, 위성 이미지의 다양한 밴드 데이터를 학습한 <strong>AI 이미지 분할(Image Segmentation) 모델</strong>을 활용하여 논(Paddy field)과 다른 지형지물(건물, 도로 등)을 높은 정확도로 식별했습니다.</li>
-            <li><b>수확량 예측 (머신러닝 모델):</b> 단순히 계산된 면적뿐만 아니라, 과거 수확량 및 기상 데이터 등을 종합적으로 학습한 <strong>머신러닝 회귀(Regression) 모델</strong>을 통해 최종 생산량을 더 정밀하게 예측하는 모델을 구축했습니다.</li>
+            <li><b>경작지 식별 (AI 모델 활용):</b> 단순한 RGB 값을 넘어, 위성 이미지의 다양한 밴드 데이터를 학습한 AI 이미지 분할(Image Segmentation) 모델을 활용하여 논(Paddy field)과 다른 지형지물을 높은 정확도로 식별했습니다.</li>
+            <li><b>수확량 예측 (머신러닝 모델):</b> 단순히 계산된 면적뿐만 아니라, 과거 수확량 및 기상 데이터 등을 종합적으로 학습한 머신러닝 회귀(Regression) 모델을 통해 최종 생산량을 더 정밀하게 예측하는 모델을 구축했습니다.</li>
           </ol>
         </li>
       </ul>
@@ -140,16 +141,70 @@ title: Home
     </div>
   </div>
   
-  <!-- 프로젝트 3: Fashion mall The Website -->
+  <!-- ▼▼▼ 새로 추가된 예정 프로젝트 3개 ▼▼▼ -->
+  
+  <!-- 프로젝트 3: 렌탈 가전 고장 예측 AI 모델 -->
   <div class="project-card">
-    <h3>Fashion mall The Website</h3>
+    <h3>렌탈 가전 고장 예측 AI 모델</h3>
     <p class="project-period">Planned</p>
-     <div class="project-content">
-      <p>여기에 프로젝트 상세 내용을 작성해주세요.</p>
+    <div class="project-content">
+      <h4>프로젝트 목표</h4>
+      <p>
+        SK매직 등 렌탈 가전에서 수집되는 센서 데이터 및 사용 이력을 분석하여, 제품의 주요 부품이 고장 나기 전에 교체 시점을 미리 예측하는 AI 모델을 개발합니다. 이를 통해 선제적인 A/S를 제공하여 비용을 절감하고 고객 만족도를 높이는 것을 목표로 합니다.
+      </p>
+      <h4>주요 구현 기능 (예정)</h4>
+      <ul>
+        <li>시계열 센서 데이터 수집 및 전처리 파이프라인 구축</li>
+        <li>LSTM 등 딥러닝 기반의 시계열 예측 모델 개발</li>
+        <li>예측된 고장 확률을 시각화하는 관리자용 대시보드 구현</li>
+      </ul>
+      <h4>예상 사용 기술</h4>
+      <p>Python, Pandas, TensorFlow, Scikit-learn, SQL</p>
+    </div>
+  </div>
+
+  <!-- 프로젝트 4: 자연어 처리 기반 호텔 리뷰 분석 시스템 -->
+  <div class="project-card">
+    <h3>자연어 처리 기반 호텔 리뷰 분석 시스템</h3>
+    <p class="project-period">Planned</p>
+    <div class="project-content">
+      <h4>프로젝트 목표</h4>
+      <p>
+        워커힐 호텔 등 특정 호텔의 온라인 리뷰 데이터를 수집하고 자연어 처리(NLP) 기술을 통해 분석합니다. 고객들이 언급하는 핵심 키워드(예: 주차, 조식, 청결)와 그에 대한 긍정/부정 감성을 자동으로 분류하고 요약하여, 서비스 개선을 위한 구체적인 인사이트를 도출하는 것을 목표로 합니다.
+      </p>
+      <h4>주요 구현 기능 (예정)</h4>
+      <ul>
+        <li>웹 크롤링을 통한 리뷰 데이터 수집</li>
+        <li>토픽 모델링(LDA)을 이용한 핵심 주제어 추출</li>
+        <li>감성 분석 모델을 통한 긍정/부정 리뷰 분류 및 시각화</li>
+      </ul>
+      <h4>예상 사용 기술</h4>
+      <p>Python, Scikit-learn (TF-IDF), Gensim, KoNLPy</p>
+    </div>
+  </div>
+  
+  <!-- 프로젝트 5: 개인화 추천 시스템이 적용된 E-commerce 백엔드 -->
+  <div class="project-card">
+    <h3>개인화 추천 시스템이 적용된 E-commerce 백엔드</h3>
+    <p class="project-period">Planned</p>
+    <div class="project-content">
+      <h4>프로젝트 목표</h4>
+      <p>
+        사용자의 상품 조회 이력, 구매 내역, 장바구니 데이터를 기반으로 개인에게 맞는 상품을 추천해주는 E-commerce 백엔드 시스템을 구축합니다. 협업 필터링(Collaborative Filtering) 등 추천 알고리즘을 구현하고, 이를 API 형태로 제공하는 것을 목표로 합니다.
+      </p>
+      <h4>주요 구현 기능 (예정)</h4>
+      <ul>
+        <li>사용자 행동 로그 수집 및 데이터베이스 설계</li>
+        <li>콘텐츠 기반 / 협업 필터링 추천 알고리즘 구현</li>
+        <li>추천 상품 목록을 반환하는 RESTful API 서버 구축</li>
+      </ul>
+      <h4>예상 사용 기술</h4>
+      <p>Python, Java/Spring, MySQL/PostgreSQL, REST API, AWS/GCP</p>
     </div>
   </div>
 
 </section>
+
 
 
 <h2 class="section-title">Tech Stack</h2>
