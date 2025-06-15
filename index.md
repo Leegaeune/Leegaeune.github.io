@@ -35,6 +35,43 @@ title: Home
       <p><strong>총 평점 :</strong> 3.77 / 4.5</p>
     </div>
   </div>
+  
+    <!-- CDP -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>2025 H-BRIDGE Global CDP</h3>
+      <p>2025.05 - 2025.06</p>
+    </div>
+    <div class="experience-right">
+      <!-- 상세 내용 -->
+    </div>
+  </div>
+
+    <!-- Hannam University 섹션 -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>2025 H-BRIDGE Global CDP</h3>
+      <p>2025.01</p>
+    </div>
+    <div class="experience-right">
+      <div class="experience-detail">
+        <h4>AI Convergence</h4>
+        <ul>
+          <li>23년도 1학기 튜터링, 튜터로 진행 - 딥러닝 심화이론</li>
+        </ul>
+      </div>
+    </div>
+  
+    <!-- SQLD -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>SQL 기반 데이터 분석 실습 및 활용 과정</h3>
+      <p>2025.05 - 2025.06</p>
+    </div>
+    <div class="experience-right">
+      <!-- 상세 내용 -->
+    </div>
+  </div>
 
   <!-- SK networks 섹션 -->
   <div class="experience-entry">
@@ -43,7 +80,7 @@ title: Home
       <p>2025.06 - 2025.12</p>
     </div>
     <div class="experience-right">
-      <!-- 상세 내용이 있다면 여기에 추가 -->
+      <!-- 상세 내용 -->
     </div>
   </div>
 
