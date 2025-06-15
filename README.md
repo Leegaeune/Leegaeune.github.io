@@ -19,7 +19,6 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 2. 데이터 기반 콘텐츠 관리 : _config.yml 파일에 이름, 자기소개, 이미지 경로 등의 주요 정보를 변수로 저장하고, _layouts/default.html에서 이를 불러와 사용하도록 구성하여 정보의 유지보수성을 높였습니다.
 
 3. 가독성을 고려한 콘텐츠 섹션 :
-
   - Experience & Awards : 기간(좌)과 상세설명(우)을 명확하게 분리한 2단 컬럼 구조를 적용하여 이력서의 가독성을 극대화했습니다.
   - Projects : 각 프로젝트의 목표, 구현 내용, 성과 등을 상세히 기술할 수 있는 카드 형태의 UI를 적용했습니다.
   - Certificates & Tech Stack : 보유 자격증과 기술 스택을 시각적으로 구분되는 박스형 UI로 디자인하여 정보 전달력을 높였습니다.
