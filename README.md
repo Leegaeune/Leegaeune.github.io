@@ -13,15 +13,12 @@ Live URL : https://leegaeune.github.io/
 Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 
 
-
 <h1>📌 프로젝트 소개</h1>
 
 이 프로젝트는 저의 개발 역량, 수행한 프로젝트, 그리고 성장 과정을 보여주기 위해 제작된 온라인 이력서입니다. 기존에 배포된 Jekyll 테마를 사용하지 않고, HTML, CSS, 그리고 Jekyll의 기본 기능을 활용하여 처음부터 직접 모든 구조와 디자인을 구현하는 것을 목표로 했습니다.
 
 
-
 이를 통해 웹 표준을 준수하는 시맨틱 마크업과 직접 제어 가능한 CSS 스타일링 능력을 보여주고자 했습니다.
-
 
 
 <h1>✨ 주요 기능 및 구현 내용</h1>
