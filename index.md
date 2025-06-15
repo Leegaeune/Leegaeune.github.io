@@ -66,9 +66,9 @@ title: Home
 <h2 class="section-title">Certificates</h2>
 <div class="certificates-list">
   <div><p>DIAT 고급<br>2015.03.20</p></div>
-  <div><p>리눅스마스터 2급</p></div>
-  <div><p>ADSP</p></div>
-  <div><p>네트워크관리사 2급</p></div>
+  <div><p>리눅스마스터 2급<br>2024.03.29</p></div>
+  <div><p>ADSP<br>2024.05.11</p></div>
+  <div><p>네트워크관리사 2급<br>2024.07.02</p></div>
   <div><p>정보처리기사</p></div>
 </div>
 
