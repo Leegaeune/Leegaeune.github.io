@@ -4,6 +4,7 @@ Jekyll과 GitHub Pages를 기반으로, 외부 테마를 사용하지 않고 직
 
 
 <h1>🖥️ 홈페이지 바로가기</h1>
+
 Live URL : https://leegaeune.github.io/
 
 
@@ -25,13 +26,17 @@ Source Code : https://github.com/Leegaeune/Leegaeune.github.io
 2. 데이터 기반 콘텐츠 관리 : _config.yml 파일에 이름, 자기소개, 이미지 경로 등의 주요 정보를 변수로 저장하고, _layouts/default.html에서 이를 불러와 사용하도록 구성하여 정보의 유지보수성을 높였습니다.
 
 3. 가독성을 고려한 콘텐츠 섹션 :
+   
   - Experience & Awards : 기간(좌)과 상세설명(우)을 명확하게 분리한 2단 컬럼 구조를 적용하여 이력서의 가독성을 극대화했습니다.
+  
   - Projects : 각 프로젝트의 목표, 구현 내용, 성과 등을 상세히 기술할 수 있는 카드 형태의 UI를 적용했습니다.
+  
   - Certificates & Tech Stack : 보유 자격증과 기술 스택을 시각적으로 구분되는 박스형 UI로 디자인하여 정보 전달력을 높였습니다.
 
 
 
-4. 외부 리소스 연동: 
+5. 외부 리소스 연동:
+   
    - Font Awesome : 연락처 섹션 등에 아이콘을 적용하여 시각적 완성도를 높였습니다.
    
    - 외부 링크 : 프로젝트 카드 내부에 관련 발표 자료(PDF, PPT)를 확인할 수 있는 링크 버튼을 구현하여 포트폴리오의 깊이를 더했습니다.
