@@ -70,7 +70,34 @@ title: Home
 
 <section class="projects-section">
 
-  <!-- 프로젝트 1: 위성기반 농산물 예측 사업 -->
+<h2 class="section-title">Projects</h2>
+
+<section class="projects-section">
+
+  <!-- 프로젝트 1: 꺼북e 알림 (새로 추가) -->
+  <div class="project-card">
+    <h3>꺼북e 알림</h3>
+    <p class="project-period">진행 기간 (예: 2024.03 - 2024.06)</p>
+    <div class="project-content">
+      <h4>프로젝트 목표</h4>
+      <p>
+        장시간 컴퓨터 사용으로 인해 발생하는 잘못된 자세(거북목 증후군)를 예방하고, 사용자가 설정한 주기에 맞춰 규칙적인 스트레칭과 휴식을 유도하여 건강한 작업 습관을 형성하도록 돕는 알림 애플리케이션 개발을 목표로 했습니다.
+      </p>
+      <h4>주요 기능 및 구현 내용</h4>
+      <ul>
+        <li><b>사용자 맞춤형 알림:</b> 사용자가 원하는 시간, 주기, 알림 메시지를 직접 설정할 수 있는 커스터마이징 기능을 구현했습니다.</li>
+        <li><b>푸시 알림 시스템:</b> 지정된 시간이 되면 애플리케이션이 꺼져 있어도 시스템 푸시 알림을 통해 사용자에게 스트레칭이나 휴식을 상기시켜 줍니다.</li>
+        <li><b>자세 가이드 제공:</b> 간단한 스트레칭 방법이나 올바른 자세에 대한 정보를 알림과 함께 제공하여 사용자의 즉각적인 행동을 유도했습니다.</li>
+      </ul>
+      <h4>사용 기술</h4>
+      <p>
+        (여기에 Android, iOS, Java, Kotlin, Swift, Firebase 등 실제 사용하신 기술 스택을 작성해주세요.)
+      </p>
+      <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
+    </div>
+  </div>
+
+  <!-- 프로젝트 2: 위성기반 농산물 예측 사업 -->
   <div class="project-card">
     <h3>위성기반 농산물 예측 사업</h3>
     <p class="project-period">2025.01</p>
@@ -85,28 +112,18 @@ title: Home
         <li><b>핵심 기술 구현:</b>
           <ol>
             <li><b>식생 지표 추출:</b> 위성 이미지의 RGB 밴드 중, 식물의 엽록소 반응을 가장 잘 나타내는 녹색(Green) 밴드 값을 핵심 지표로 추출했습니다.</li>
-            <li><b>경작지 식별:</b> 추출한 녹색 밴드 값을 기준으로 임계값(Threshold)을 설정하여, 논(Paddy field)과 다른 지형지물(건물, 도로 등)을 명확하게 분리하는 이미지 필터링을 적용했습니다.</li>
+            <li><b>경작지 식별:</b> 추출한 녹색 밴드 값을 기준으로 임계값(Threshold)을 설정하여, 논(Paddy field)과 다른 지형지물을 명확하게 분리하는 이미지 필터링을 적용했습니다.</li>
             <li><b>면적 계산 및 수확량 예측:</b> 식별된 논 영역의 픽셀 수를 계산하여 전체 경작지의 면적을 산출하고, 이를 단위 면적당 평균 수확량 데이터와 결합하여 최종 생산량을 예측하는 모델을 구축했습니다.</li>
           </ol>
         </li>
       </ul>
-      <h4>성과 및 배운 점</h4>
-      <p>
-        이 프로젝트를 통해 위성 데이터를 분석하여 실제 산업에 적용할 수 있는 구체적인 정보를 추출하는 데이터 처리 및 분석 능력을 길렀습니다. 특히, 복잡한 원본 데이터로부터 비즈니스 가치를 창출하는 문제 해결 과정을 직접 경험했습니다.
-      </p>
-      <a href="https://drive.google.com/file/d/1nLE5Om-Nx4JHlmjOkynoXXGHAs4KOjr5/view?usp=sharing" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
-
+      <a href="/Cansat3.pdf" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
     </div>
   </div>
 
-  <!-- 프로젝트 2: 부산행(C Language) -->
-  <div class="project-card">
-    <h3>부산행 (C Language)</h3>
-    <p class="project-period">2024.04.19</p>
-    <div class="project-content">
-      <p>여기에 프로젝트 상세 내용을 작성해주세요.</p>
-    </div>
-  </div>
+  <!-- 여기에 나머지 프로젝트들을 같은 형식으로 추가하면 됩니다. -->
+
+</section>
 
   <!-- 프로젝트 3: Fashion mall The Website -->
   <div class="project-card">
