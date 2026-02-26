@@ -72,7 +72,7 @@ title: Home
     </div>
     <div class="experience-right">
       <div class="experience-detail">
-        <h4>AI Convergence & Computer Engineering</h4>
+        <h4>AI융합공학과 & 컴퓨터공학과</h4>
         <ul>
           <li>2023년 1학기 딥러닝 심화이론 튜터</li>
           <li>2023년 2학기 선형대수학 튜터</li>
