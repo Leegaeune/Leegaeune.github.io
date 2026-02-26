@@ -95,8 +95,20 @@ body {
 .project-card h3 { margin: 0 0 5px 0; font-size: 1.3em; }
 .project-card .project-period { color: #888; font-size: 0.9em; margin: 0 0 20px 0; border-bottom: 1px solid #eee; padding-bottom: 15px; }
 .project-content { line-height: 1.7; }
-.project-content h4 { font-size: 1.1em; margin: 15px 0 10px 0; }
-.project-content ul, .project-content ol { padding-left: 25px; }
+/* 프로젝트 소제목과 본문을 하나의 그룹처럼 보이게 */
+.project-content h4 {
+    font-size: 1.1em;
+    margin-top: 20px;     /* 소제목 그룹 간 간격 */
+    margin-bottom: 4px;  /* 소제목과 본문 사이 간격 최소화 */
+  }
+  
+  /* 소제목 바로 아래 본문 붙이기 */
+  .project-content p,
+  .project-content ul,
+  .project-content ol {
+    margin-top: 0;
+    padding-left: 25px;
+  }
 
 /* 프로젝트 기술 태그 스타일 */
 .project-tech-tags { margin-top: 15px; display: flex; flex-wrap: wrap; gap: 8px; }

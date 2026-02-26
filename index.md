@@ -10,8 +10,21 @@ title: Home
   </p>
 </section>
 
-<h2 class="section-title">Experience & Awards</h2>
+<h2 class="section-title">Awards & Experience</h2>
 <section class="experience-section">
+
+  <!-- Awards 섹션 -->
+  <div class="experience-entry awards-entry">
+    <div class="experience-left">
+      <h3>Awards</h3>
+    </div>
+    <div class="experience-right">
+      <ul>
+        <li>융합교육과정 이수 활성화 수기 공모전 - 장려상 (한남대학교 2023.12)</li>
+        <li>캔위성 창업아이디어 경진대회 - Best Marketing Strategy Award (Thu Dau Mot University X Hannam University SatelliteUtilization Research Center 2025.01)</li>
+      </ul>
+    </div>
+  </div>
 
   <!-- SK networks 섹션 -->
   <div class="experience-entry">
@@ -54,7 +67,7 @@ title: Home
   <!-- Hannam University 섹션 -->
   <div class="experience-entry">
     <div class="experience-left">
-      <h3>Hannam University</h3>
+      <h3>한남대학교</h3>
       <p>2021.03 - Present</p>
     </div>
     <div class="experience-right">
@@ -66,19 +79,6 @@ title: Home
           <li>2023년 2학기 성적 우수생 선발</li>
         </ul>
       </div>
-    </div>
-  </div>
-
-  <!-- Awards 섹션 -->
-  <div class="experience-entry">
-    <div class="experience-left">
-      <h3>Awards</h3>
-    </div>
-    <div class="experience-right">
-      <ul>
-        <li>융합교육과정 이수 활성화 수기 공모전 - 장려상 (한남대학교 2023.12)</li>
-        <li>캔위성 창업아이디어 경진대회 - Best Marketing Strategy Award (Thu Dau Mot University X Hannam University SatelliteUtilization Research Center 2025.01)</li>
-      </ul>
     </div>
   </div>
 
@@ -553,10 +553,9 @@ title: Home
         <span class="tech-tag">Jupyter Notebook</span>
       </div>
       <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP" class="project-link" target="_blank" rel="noopener noreferrer">
-        프로젝트 상세 보기
+        프로젝트 상세 보기</a>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">시연 영상</a>
-      </a>
     </div>
   </div>
     
