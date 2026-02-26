@@ -182,3 +182,8 @@ body {
     font-weight: 700 !important;
     color: #222 !important;
 }
+
+/* "이가은의 포트폴리오 줄바꿈 없애기" */
+.sidebar h1 {
+    white-space: nowrap;
+}
