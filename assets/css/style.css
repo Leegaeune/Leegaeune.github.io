@@ -81,6 +81,10 @@ body {
 .experience-right li { margin-bottom: 5px; }
 .experience-detail { margin-bottom: 20px; }
 .experience-detail:last-child { margin-bottom: 0; }
+/* Awards 본문 강조 */
+.awards-entry .experience-right {
+    font-weight: 600;
+}
 
 /* Certificates 스타일 */
 .certificates-list { display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px; margin-top: 20px; }
