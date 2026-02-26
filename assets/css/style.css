@@ -81,10 +81,6 @@ body {
 .experience-right li { margin-bottom: 5px; }
 .experience-detail { margin-bottom: 20px; }
 .experience-detail:last-child { margin-bottom: 0; }
-/* Awards 본문 강조 */
-.awards-entry .experience-right {
-    font-weight: 600;
-}
 
 /* Certificates 스타일 */
 .certificates-list { display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px; margin-top: 20px; }
@@ -177,4 +173,12 @@ body {
         padding-right: 0;
         margin-bottom: 10px;
     }
+}
+
+/* Awards 본문 강제 강조 */
+.experience-entry.awards-entry .experience-right,
+.experience-entry.awards-entry .experience-right ul,
+.experience-entry.awards-entry .experience-right li {
+    font-weight: 700 !important;
+    color: #222 !important;
 }
