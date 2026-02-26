@@ -23,14 +23,22 @@ body {
 
 /* 왼쪽 사이드바 스타일 */
 .sidebar {
-    width: 300px; padding: 40px; border-right: 1px solid #ddd;
-    text-align: center; display: flex; flex-direction: column;
+    width: 360px;   
+    padding: 40px;
+    border-right: 1px solid #ddd;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 .sidebar img {
     width: 200px; height: 200px; border-radius: 15px; object-fit: contain;
     margin-bottom: 20px; margin-left: auto; margin-right: auto; background-color: #f0f0f0;
 }
-.sidebar h1 { font-size: 1.5em; margin-top: 0; margin-bottom: 10px; }
+.sidebar h1 { 
+    font-size: 1.5em; 
+    margin-top: 0; 
+    margin-bottom: 10px; 
+}
 .sidebar p { line-height: 1.6; }
 
 /* 연락처 정보 스타일 */
