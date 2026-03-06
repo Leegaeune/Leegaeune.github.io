@@ -100,7 +100,7 @@ title: Home
   <!-- 프로젝트 1 : 꺼북e 알림 -->
   <div class="project-card">
     <h3>꺼북e 알림</h3>
-    <p class="project-period">2024.09 - 2024.12</p>
+    <p class="project-period">2024.09 - 2024.12 (Team Project)</p>
     <div class="project-content">
       <h4>프로젝트 목표</h4>
       <p>
@@ -119,14 +119,25 @@ title: Home
         <span class="tech-tag javascript">JavaScript</span>
         <span class="tech-tag css">CSS</span>
       </div>
-      <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
+      <a href="https://1drv.ms/p/c/fb3f63734cf89603/IQA7ZpAfy15RSbMuOZ5QgE3WAZKFAfylUI0hC92whEONwiQ" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">
+          ▶ 데모 영상 보기
+        </summary>
+        <iframe
+          src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/preview"
+          width="100%"
+          height="480"
+          allow="autoplay">
+        </iframe>
+      </details>
     </div>
   </div>
 
   <!-- 프로젝트 2 : 데이터로 수확하는 미래 : 위성기반 농산물 예측 사업 -->
   <div class="project-card">
     <h3>위성기반 농산물 예측 사업</h3>
-    <p class="project-period">2025.01</p>
+    <p class="project-period">2025.01 (Team Project)</p>
     <div class="project-content">
       <h4>프로젝트 목표</h4>
       <p>
@@ -149,7 +160,7 @@ title: Home
         <span class="tech-tag ai">AI</span>
         <span class="tech-tag ml">Machine Learning</span>
       </div>
-      <a href="/Cansat3.pdf" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
+      <a href="https://drive.google.com/file/d/1nLE5Om-Nx4JHlmjOkynoXXGHAs4KOjr5/view?usp=sharing" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PDF)</a>
     </div>
   </div>
   
@@ -552,7 +563,7 @@ title: Home
         <span class="tech-tag">GitHub</span>
         <span class="tech-tag">Jupyter Notebook</span>
       </div>
-      <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP" class="project-link" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Leegaeune/SKN17-FINAL-4Team" class="project-link" target="_blank" rel="noopener noreferrer">
         프로젝트 상세 보기</a>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">시연 영상</a>
@@ -587,3 +598,13 @@ title: Home
   </div>
 </div>
 
+<!-- <script>
+function toggleVideo1() {
+  var video = document.getElementById("demo-video-1");
+  if (video.style.display === "none") {
+    video.style.display = "block";
+  } else {
+    video.style.display = "none";
+  }
+}
+</script> -->
