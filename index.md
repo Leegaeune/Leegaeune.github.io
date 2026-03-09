@@ -132,7 +132,7 @@ title: Home
       <details class="project-demo">
         <summary class="project-link">시연 영상 보기</summary>
         <iframe
-          src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/view?usp=sharing"
+          src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/preview"
           width="100%"
           height="480"
           allow="autoplay">
@@ -578,7 +578,7 @@ title: Home
       <details class="project-demo">
         <summary class="project-link">시연 영상 보기</summary>
         <iframe
-          src="https://drive.google.com/file/d/12kJuSm4XYZ8q30bMbJbxnskm5vW1dpc5/view?usp=sharing"
+          src="https://drive.google.com/file/d/12kJuSm4XYZ8q30bMbJbxnskm5vW1dpc5/preview"
           width="100%"
           height="480"
           allow="autoplay">
