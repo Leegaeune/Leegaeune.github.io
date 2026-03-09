@@ -129,10 +129,8 @@ title: Home
         <span class="tech-tag css">CSS</span>
       </div>
       <a href="https://1drv.ms/p/c/fb3f63734cf89603/IQA7ZpAfy15RSbMuOZ5QgE3WAZKFAfylUI0hC92whEONwiQ" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
-      <details>
-        <summary style="cursor:pointer; font-weight:bold;">
-          시연 영상 보기
-        </summary>
+      <details class="project-demo">
+        <summary class="project-link">시연 영상 보기</summary>
         <iframe
           src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/preview"
           width="100%"
@@ -142,6 +140,8 @@ title: Home
       </details>
     </div>
   </div>
+
+  
 
   <!-- 프로젝트 2 : 데이터로 수확하는 미래 : 위성기반 농산물 예측 사업 -->
   <div class="project-card">
@@ -586,6 +586,8 @@ title: Home
       </details>
     </div>
   </div>
+    
+
     
 
 
