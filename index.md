@@ -131,7 +131,7 @@ title: Home
       <a href="https://1drv.ms/p/c/fb3f63734cf89603/IQA7ZpAfy15RSbMuOZ5QgE3WAZKFAfylUI0hC92whEONwiQ" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
       <details>
         <summary style="cursor:pointer; font-weight:bold;">
-           데모 영상 보기
+          시연 영상 보기
         </summary>
         <iframe
           src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/preview"
@@ -246,7 +246,7 @@ title: Home
         <span class="tech-tag">Jupyter Notebook</span>
         <span class="tech-tag">GitHub</span>
       </div>
-      <a href="README 또는 발표자료 링크" class="project-link" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Encore-SKN-17/EDA_MINI_4TEAM" class="project-link" target="_blank" rel="noopener noreferrer">
         프로젝트 상세 보기
       </a>
     </div>
@@ -575,7 +575,15 @@ title: Home
       <a href="https://github.com/Leegaeune/SKN17-FINAL-4Team" class="project-link" target="_blank" rel="noopener noreferrer">
         프로젝트 상세 보기</a>
       <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
-      <a href="https://docs.google.com/presentation/d/1Nt_g4vc9zItP85qGIRyGzrPEKoY7fcYB/edit?usp=sharing&ouid=111937066271731398205&rtpof=true&sd=true" class="project-link" target="_blank" rel="noopener noreferrer">시연 영상</a>
+      <details class="project-demo">
+        <summary class="project-link">시연 영상 보기</summary>
+        <iframe
+          src="https://drive.google.com/file/d/12kJuSm4XYZ8q30bMbJbxnskm5vW1dpc5/preview"
+          width="100%"
+          height="480"
+          allow="autoplay">
+        </iframe>
+      </details>
     </div>
   </div>
     
