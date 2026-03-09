@@ -132,7 +132,7 @@ title: Home
       <details class="project-demo">
         <summary class="project-link">시연 영상 보기</summary>
         <iframe
-          src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/view?usp=drive_link"
+          src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/view?usp=sharing"
           width="100%"
           height="480"
           allow="autoplay">
@@ -574,11 +574,11 @@ title: Home
       </div>
       <a href="https://github.com/Leegaeune/SKN17-FINAL-4Team" class="project-link" target="_blank" rel="noopener noreferrer">
         프로젝트 상세 보기</a>
-      <a href="https://drive.google.com/file/d/1-mB13lUP5iJ4lbkgXRAnqeN6MsOdzn8E/view?usp=drive_link" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
+      <a href="https://drive.google.com/file/d/1-mB13lUP5iJ4lbkgXRAnqeN6MsOdzn8E/view?usp=sharing" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
       <details class="project-demo">
         <summary class="project-link">시연 영상 보기</summary>
         <iframe
-          src="https://drive.google.com/file/d/12kJuSm4XYZ8q30bMbJbxnskm5vW1dpc5/view?usp=drive_link"
+          src="https://drive.google.com/file/d/12kJuSm4XYZ8q30bMbJbxnskm5vW1dpc5/view?usp=sharing"
           width="100%"
           height="480"
           allow="autoplay">
