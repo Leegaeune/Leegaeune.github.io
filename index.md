@@ -68,7 +68,7 @@ title: Home
   <div class="experience-entry">
     <div class="experience-left">
       <h3>한남대학교</h3>
-      <p>2021.03 - Present</p>
+      <p>2021.03 - 2026.02</p>
     </div>
     <div class="experience-right">
       <div class="experience-detail">
@@ -77,6 +77,15 @@ title: Home
           <li>2023년 1학기 딥러닝 심화이론 튜터</li>
           <li>2023년 2학기 선형대수학 튜터</li>
           <li>2023년 2학기 성적 우수생 선발</li>
+        </ul>
+      </div>
+      <div class="experience-detail">
+        <h4>AI융합공학과 학과 홍보대사</h4>
+        <ul>
+          <li>활동 기간 : 2022.09 - 2023.12</li>
+          <li>학과 홍보 콘텐츠 기획 및 제작 (SNS 홍보 게시물, 홍보 자료)</li>
+          <li>학과 소개 및 학생 경험을 전달하는 홍보 콘텐츠 제작</li>
+          <li>입학 설명회 및 학과 홍보 행사 운영</li>
         </ul>
       </div>
     </div>
@@ -122,7 +131,7 @@ title: Home
       <a href="https://1drv.ms/p/c/fb3f63734cf89603/IQA7ZpAfy15RSbMuOZ5QgE3WAZKFAfylUI0hC92whEONwiQ" class="project-link" target="_blank" rel="noopener noreferrer">발표 자료 보기 (PPT)</a>
       <details>
         <summary style="cursor:pointer; font-weight:bold;">
-          ▶ 데모 영상 보기
+           데모 영상 보기
         </summary>
         <iframe
           src="https://drive.google.com/file/d/1ZNff4qUFdcuJyWdZXFKZ6xjQzSk7LCdB/preview"
@@ -371,7 +380,7 @@ title: Home
         <span class="tech-tag">Jupyter Notebook</span>
         <span class="tech-tag">GitHub</span>
       </div>
-      <a href="https://github.com/Leegaeune/kor_2000s_slang_translator" 
+      <a href="https://github.com/Leegaeune/kor_2000s_slang_translator_1" 
         class="project-link" 
         target="_blank" 
         rel="noopener noreferrer">
