@@ -34,10 +34,6 @@ title: Home
     </div>
     <div class="experience-right">
       <p>플레이데이터 평생교육원 · 데이터 분석, ML/DL 모델링, LLM(RAG) 기반 AI 서비스 개발 과정 이수</p>
-      <ul>
-        <li>Python · MySQL · LangChain · Streamlit · Cloud 환경 실전 프로젝트 수행</li>
-        <li>팀장으로서 팀·개인 프로젝트 총 10개 가까이 완수</li>
-      </ul>
     </div>
   </div>
 
@@ -73,7 +69,7 @@ title: Home
     </div>
     <div class="experience-right">
       <div class="experience-detail">
-        <h4>AI융합공학과 & 컴퓨터공학과 · 학점 3.68 / 4.5</h4>
+        <h4>AI융합공학과 & 컴퓨터공학과</h4>
         <ul>
           <li>2023년 1학기 딥러닝 심화이론 튜터</li>
           <li>2023년 2학기 선형대수학 튜터</li>
@@ -96,13 +92,31 @@ title: Home
 
 <h2 class="section-title">Certificates</h2>
 <div class="certificates-list">
-  <div><p>DIAT 고급<br>2015.03.20</p></div>
-  <div><p>리눅스마스터 2급<br>2024.03.29</p></div>
-  <div><p>ADSP<br>2024.05.11</p></div>
-  <div><p>네트워크관리사 2급<br>2024.07.02</p></div>
-  <div><p>정보처리기사</p></div>
+  <div class="cert-card">
+    <p class="cert-name">네트워크관리사 2급</p>
+    <p class="cert-meta">2024.07 &nbsp;·&nbsp; 한국정보통신자격협회</p>
+  </div>
+  <div class="cert-card">
+    <p class="cert-name">데이터분석 준전문가 (ADSP)</p>
+    <p class="cert-meta">2024.05 &nbsp;·&nbsp; 한국데이터산업진흥원</p>
+  </div>
+  <div class="cert-card">
+    <p class="cert-name">리눅스마스터 2급</p>
+    <p class="cert-meta">2024.03 &nbsp;·&nbsp; 한국정보통신진흥협회</p>
+  </div>
+  <div class="cert-card">
+    <p class="cert-name">정보처리기사</p>
+    <p class="cert-meta">취득 예정</p>
+  </div>
+  <div class="cert-card">
+    <p class="cert-name">한국사능력검정 2급</p>
+    <p class="cert-meta">2022.02 &nbsp;·&nbsp; 국사편찬위원회</p>
+  </div>
+  <div class="cert-card">
+    <p class="cert-name">DIAT 멀티미디어제작 고급</p>
+    <p class="cert-meta">2015.03 &nbsp;·&nbsp; 한국정보통신진흥협회</p>
+  </div>
 </div>
-
 
 <h2 class="section-title">Projects</h2>
 <section class="projects-section">
