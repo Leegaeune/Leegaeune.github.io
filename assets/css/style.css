@@ -124,13 +124,50 @@ body {
     background-color: #e9ecef; color: #495057; padding: 4px 10px;
     border-radius: 15px; font-size: 0.85em; font-weight: 500;
 }
-.tech-tag.python { background-color: #d8e6f1; color: #306998; }
-.tech-tag.java { background-color: #e1e9ed; color: #5382a1; }
-.tech-tag.javascript { background-color: #fcf6d4; color: #b7a63a; }
-.tech-tag.html { background-color: #fbebe6; color: #e34c26; }
-.tech-tag.css { background-color: #e3e8f8; color: #264de4; }
-.tech-tag.ai { background-color: #e7d8f1; color: #6f42c1; }
-.tech-tag.ml { background-color: #d8f1e9; color: #0b7a75; }
+.tech-tag.python     { background-color: #d8e6f1; color: #1a5276; border: 1px solid #a9cce3; }
+.tech-tag.java       { background-color: #e1e9ed; color: #2e6e8e; border: 1px solid #aecbd9; }
+.tech-tag.javascript { background-color: #fef9e7; color: #9a7d0a; border: 1px solid #f9e79f; }
+.tech-tag.html       { background-color: #fdecea; color: #c0392b; border: 1px solid #f5b7b1; }
+.tech-tag.css        { background-color: #eaf0fb; color: #1a3a8f; border: 1px solid #aab7e8; }
+.tech-tag.ai         { background-color: #ede7f6; color: #5b2c8a; border: 1px solid #c9b3e8; }
+.tech-tag.ml         { background-color: #d5f5e3; color: #0b5e49; border: 1px solid #82e0aa; }
+.tech-tag.django     { background-color: #d4efdf; color: #1e7a46; border: 1px solid #7dcea0; }
+.tech-tag.fastapi    { background-color: #d6eef8; color: #0e6a8a; border: 1px solid #85c1e9; }
+.tech-tag.streamlit  { background-color: #fde8ec; color: #a93226; border: 1px solid #f1948a; }
+.tech-tag.langchain  { background-color: #e9f7e4; color: #2e7d32; border: 1px solid #a9dfb4; }
+.tech-tag.docker     { background-color: #daeeff; color: #0a4f7e; border: 1px solid #85c1e9; }
+.tech-tag.aws        { background-color: #fef0e6; color: #a04000; border: 1px solid #f0b27a; }
+.tech-tag.mysql      { background-color: #d6eaf8; color: #154360; border: 1px solid #7fb3d3; }
+.tech-tag.pandas     { background-color: #f3e5f5; color: #6a0572; border: 1px solid #d7bde2; }
+.tech-tag.sklearn    { background-color: #fff3e0; color: #7e5109; border: 1px solid #f0c27f; }
+.tech-tag.nlp        { background-color: #e8eaf6; color: #283593; border: 1px solid #9fa8da; }
+.tech-tag.github     { background-color: #f0f0f0; color: #2c3e50; border: 1px solid #bdc3c7; }
+
+/* 담당 역할 강조 박스 */
+.role-highlight {
+    background-color: #f0f7f4;
+    border-left: 4px solid #345a7d;
+    border-radius: 0 8px 8px 0;
+    padding: 14px 18px;
+    margin: 16px 0;
+}
+.role-highlight h4 {
+    color: #345a7d !important;
+    margin-top: 0 !important;
+    margin-bottom: 8px !important;
+    font-size: 1em !important;
+    letter-spacing: 0.03em;
+}
+.role-highlight ul {
+    margin: 0 !important;
+    padding-left: 20px !important;
+    color: #2c3e50 !important;
+}
+.role-highlight li {
+    margin-bottom: 4px;
+    font-weight: 500;
+    color: #2c3e50 !important;
+}
 
 /* 프로젝트 링크 버튼 스타일 */
 .project-link {
