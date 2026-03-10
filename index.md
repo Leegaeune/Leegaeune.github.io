@@ -109,10 +109,6 @@ title: Home
     <p class="cert-meta">취득 예정</p>
   </div>
   <div class="cert-card">
-    <p class="cert-name">한국사능력검정 2급</p>
-    <p class="cert-meta">2022.02 &nbsp;·&nbsp; 국사편찬위원회</p>
-  </div>
-  <div class="cert-card">
     <p class="cert-name">DIAT 멀티미디어제작 고급</p>
     <p class="cert-meta">2015.03 &nbsp;·&nbsp; 한국정보통신진흥협회</p>
   </div>
