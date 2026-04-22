@@ -44,7 +44,10 @@ title: Home
       <p>2025.05 - 2025.06</p>
     </div>
     <div class="experience-right">
-      <!-- 상세 내용 -->
+      <h4>한남대학교</h4>
+      <ul>
+        <li>SQL 기초 문법과 데이터 모델링을 기반으로 데이터 조회, 조인, 집계 등 데이터 처리 기초 학습</li>
+      </ul>
     </div>
   </div>
 
@@ -60,6 +63,27 @@ title: Home
       </ul>
     </div>
   </div>
+
+  <!-- H-BRIDGE Global CDP -->
+  <div class="experience-entry">
+    <div class="experience-left">
+      <h3>2025 H-BRIDGE Global CDP</h3>
+      <p>2025.01</p>
+    </div>
+    <div class="experience-right">
+      <h4>한국전자통신연구원</h4>
+      <ul>
+        <li>XR 기술의 개념과 기초이론</li>
+        <li>디지털 전환 시대의 AR/VR 기술 활용</li>
+        <li>AI 영상생성 기술을 활용하는 메타버스 패션테크</li>
+        <li>게임 분석 및 게임 인공지능 기술</li>
+        <li>플렌옵틱 기술</li>
+      </ul>
+    </div>
+  </div>
+
+
+  
 
   <!-- Hannam University 섹션 -->
   <div class="experience-entry">
@@ -106,7 +130,7 @@ title: Home
   </div>
   <div class="cert-card">
     <p class="cert-name">정보처리기사</p>
-    <p class="cert-meta">취득 예정</p>
+    <p class="cert-meta">필기 합격</p>
   </div>
   <div class="cert-card">
     <p class="cert-name">DIAT 멀티미디어제작 고급</p>
